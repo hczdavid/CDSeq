@@ -1,4 +1,4 @@
-# Data Simulation
+# Data Generating
 
 We use the deconvolution benchmark pipeline (Cobos et al,2020) to generate the simulation data. "helper_functions1.R" is adopted from https://github.com/favilaco/deconv_benchmark with some minor adjustments.
 
